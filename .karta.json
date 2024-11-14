@@ -3,5 +3,10 @@
       "who": "auth",
       "what": "endpoint",
       "value": "/v1/users/{id}"
+    },
+     {
+      "who": "auth",
+      "what": "endpoint",
+      "value": "/v1/users"
     }
 ]
